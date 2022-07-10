@@ -36,5 +36,5 @@ db_loader.py
 
 Весь код спрятан в файле 
 ```sh
-functions.py.py
+functions.py
 ```
